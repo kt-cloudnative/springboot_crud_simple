@@ -1,2 +1,2 @@
-# edu12-2
+# springboot_crud_simple with JPA
 Spring Boot : employee without security
